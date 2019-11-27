@@ -1,0 +1,16 @@
+Professor
+	- Condition in which Empty statements are not accepted 
+	- Create an exception handling when a user input a new Professor and uses an existing SSN
+
+Project
+	- Condiiton in which Empty Statements are not accepted
+	- Crate an exception handling when a user inputs a SSN for Principal Investigator that is not
+	  in the database
+	- Clean Up how Dates are handled
+	- I can create a Project without a research Assistant i should not be able
+	  to do that
+		+ Seems Triggers are a way to work around it
+	- I can create a Project without a CO-Investigator I should not be able to 
+	  to do that
+		+ Seems that Triggers are a way to work around this
+
